@@ -1,0 +1,14 @@
+{
+  "name": "velofin-fintech",
+  "version": "1.0.0",
+  "description": "Tela de login do projeto Fintech VeloFin — HTML, CSS e Tailwind CSS (FIAP 1TDS Fase 4).",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./css/styles.css --minify",
+    "dev": "tailwindcss -i ./src/input.css -o ./css/styles.css --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.1",
+    "tailwindcss": "^4.3.1"
+  }
+}
