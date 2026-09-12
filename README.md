@@ -8,6 +8,8 @@ Interface de login do MVP acadêmico **VeloFin**, construída em HTML semântico
 
 🔗 **Demo ao vivo:** https://danielsouzaa7.github.io/velofin-fintech/
 
+![Tela de acesso do VeloFin: painel de marca à esquerda com proposta de valor e cartão de patrimônio; formulário de login à direita](docs/preview-desktop.jpg)
+
 ---
 
 ## O problema
